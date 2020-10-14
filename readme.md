@@ -1,1 +1,1 @@
-[ProductDetails](blob/master/ProductDetails.md) - Детали продукции
+[ProductDetails](ProductDetails.md) - Детали продукции
