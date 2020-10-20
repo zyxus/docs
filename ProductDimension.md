@@ -1,7 +1,5 @@
 
-# [Product](Product.md)
-
-## ProductDimensions
+## ProductDimension
 
 ### Габаритно весовые параметры продукта
 
@@ -10,7 +8,7 @@
 
 <pre>
 productId: bigint           // Id продукта
-productSize: <a href="ProductSizes.md">ProductSizes</a>   // Id размера продукта
+productSize: <a href="ProductSize.md">ProductSize</a>   // Id размера продукта
 weight: decimal             // Вес
 volume: decimal             // Объем
 </pre>
