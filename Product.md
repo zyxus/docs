@@ -4,7 +4,7 @@
 
 - [ProductDetails](ProductDetails.md) - Детали продукции
 - [ProductProperty](ProductProperties/ProductProperty.md)  - Свойства товаров
-- [ProductSize](ProductSize.md) - Размеры
+- [ProductSizes](ProductSizes.md) - Размеры
 - [ProductDimensions](ProductDimensions.md) - Габариты 
 - [ProductReviews](ProductReviews.md) - Отзывы
-- [ProductRelated](ProductRelated.md) - Связанные товары 
+- [RelatedProducts](RelatedProducts.md) - Связанные товары 

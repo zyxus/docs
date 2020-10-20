@@ -9,16 +9,19 @@
 
 <pre>
 id: bigint          // Id детали
-product_id: bigint  // Id продукта
+productId: bigint   // Id продукта
 image: Image        // Изображение
 enabled: boolean    // Видимость -включен/выключен
 sort: int           // Сортировка
 </pre>
 
-### ProductDetailsLanguages
+### ProductDetailsI18n
+
+Интернационализация деталей.  
+Каждой детали соответствует перевод названия и описания на конкретный язык.
 
 <pre>
-detail_id: bigint       // Id детали
+detailId: bigint        // Id детали
 lang: Language          // Язык
 name: String            // Изображение
 description: text       // Видимость -включен/выключен

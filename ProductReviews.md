@@ -15,13 +15,13 @@
 <pre>
 id: bigint                      // Id
 user: <a href="User.md">User</a>                      // Пользователь
-status: ProductReviewStatus     // Статус отзыва
+status: ProductReviewStatuses   // Статус отзыва
 description: text               // Текст отзыва
 </pre>
 
-### ProductReviewStatus
+## ProductReviewStatus
 
-#### Статусы отзывов
+### Статусы отзывов
 
 ```
 id: int             // Id статуса
