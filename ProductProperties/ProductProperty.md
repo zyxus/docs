@@ -9,6 +9,6 @@ sort: int                        // Значение сортировки
 enabled: int                     // Видимость - включен/выключен
 </pre>
 ## Cм. также
-[ProductPropertyBlock](ProductPropertyBlock.md) - Блок свойст товаров.   
+[ProductPropertyBlock](ProductPropertyBlock.md) - Блок свойств товаров.   
 [ProductPropertyValue](ProductPropertyValue.md) - Значение свойства.   
 [Unit](Unit.md) - Размерность. 

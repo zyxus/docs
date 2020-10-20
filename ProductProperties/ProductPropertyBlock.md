@@ -11,5 +11,5 @@ sort: int                           // Значение сортировки
 enabled: int                        // Видимость - включен/выключен
 </pre>
 ## Cм. также
-[ProductPropertyBlockCollection](ProductPropertyBlockCollection.md) - Коллекция блоков свойст товаров.  
+[ProductPropertyBlockCollection](ProductPropertyBlockCollection.md) - Коллекция блоков свойств товаров.  
 [ProductProperty](ProductProperty.md) - Свойство товара.  

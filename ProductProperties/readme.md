@@ -37,6 +37,6 @@
 [Product](../Product.md) - Товар.  
 [ProductProperty](ProductProperty.md) - Свойство товара.  
 [ProductPropertyValue](ProductPropertyValue.md) - Значение свойства.  
-[ProductPropertyBlock](ProductPropertyBlock.md) - Блок свойст товаров.  
+[ProductPropertyBlock](ProductPropertyBlock.md) - Блок свойств товаров.  
 [ProductPropertyBlockCollection](ProductPropertyBlockCollection.md) - Коллекция блоков свойст товаров.  
 [Unit](Unit.md) - Размерность. 
