@@ -1,6 +1,6 @@
 # ProductProperty
 ## Свойство товара
-Является структурной единицей [Product](../Product.md)
+Является структурной единицей [ProductPropertyBlock](ProductPropertyBlock.md)
 <pre>
 id: bigint                       // идентификатор, примари    
 value: ProductPropertyValue[]    // Значение свойства  
@@ -9,6 +9,6 @@ sort: int                        // Значение сортировки
 enabled: int                     // Видимость - включен/выключен
 </pre>
 ## Cм. также
-[Product](../Product.md) - Товар.  
+[ProductPropertyBlock](ProductPropertyBlock.md) - Блок свойст товаров.   
 [ProductPropertyValue](ProductPropertyValue.md) - Значение свойства.   
 [Unit](Unit.md) - Размерность. 

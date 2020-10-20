@@ -34,7 +34,9 @@
 ## Структура системы
 
 ### Сущности
+[Product](../Product.md) - Товар.  
 [ProductProperty](ProductProperty.md) - Свойство товара.  
 [ProductPropertyValue](ProductPropertyValue.md) - Значение свойства.  
 [ProductPropertyBlock](ProductPropertyBlock.md) - Блок свойст товаров.  
 [ProductPropertyBlockCollection](ProductPropertyBlockCollection.md) - Коллекция блоков свойст товаров.  
+[Unit](Unit.md) - Размерность. 
