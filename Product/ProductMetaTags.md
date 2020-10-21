@@ -1,7 +1,7 @@
 
 # [Product](Product.md)
 
-## ProductMeta
+## ProductMetaTags
 
 ### Мета теги и данные для поисковиков и соцсетей
 

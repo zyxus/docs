@@ -1,7 +1,7 @@
 
 # [Product](Product.md)
 
-## ProductReview
+## ProductReviews
 
 ### Отзывы на продукт
 
@@ -15,6 +15,7 @@
 <pre>
 id: bigint                      // Id
 user: <a href="User.md">User</a>                      // Пользователь
+reviewId: int                   // Id отзыва на который данный отзыв является ответом
 status: ProductReviewStatus     // Статус отзыва
 description: text               // Текст отзыва
 </pre>
@@ -22,6 +23,11 @@ description: text               // Текст отзыва
 ## ProductReviewStatus
 
 ### Статусы отзывов
+
+Статусы отзыва
+- на модерации  
+- опубликован  
+- отклонен  
 
 ```
 id: int             // Id статуса

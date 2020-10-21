@@ -1,7 +1,7 @@
 
 # [Product](Product.md)
 
-## ProductSize
+## ProductSizes
 
 ### Размеры продукта
 

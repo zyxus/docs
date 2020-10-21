@@ -1,16 +1,16 @@
 
 # [Product](Product.md)
 
-## RelatedProduct
+## RelatedProducts
 
 ### Связанные продукты
 
 У каждого продукта есть набор связанных с ним продуктов двух и болеетипов - рекомендуемые и похожие.  
 
 <pre>
-productId: bigint            // Id продукта
-type: RelationType           // Тип связи с другим продуктом
-product: relatedProduct      // Связанный продукт
+productId: bigint          // Id продукта
+type: RelationType         // Тип связи с другим продуктом
+product: Product           // Связанный продукт
 </pre>
 
 ## RelationType

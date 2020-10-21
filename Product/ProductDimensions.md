@@ -1,14 +1,14 @@
 
-## ProductDimension
+## ProductDimensions
 
 ### Габаритно весовые параметры продукта
 
 Продукту могут быть присвоены параметры веса и объема.  
-Для каждого размера продукта существует свой вес и объем.
+Для каждого **размера** продукта существует свой вес и объем.
 
 <pre>
+productSize: <a href="ProductSizes.md">ProductSizes</a>   // Id размера продукта
 productId: bigint           // Id продукта
-productSize: <a href="ProductSize.md">ProductSize</a>   // Id размера продукта
 weight: decimal             // Вес
 volume: decimal             // Объем
 </pre>

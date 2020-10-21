@@ -1,3 +1,3 @@
 # ТА
 
-- [Product](Product.md) - Продукт
+- [Product](Product/Product.md) - Продукт
