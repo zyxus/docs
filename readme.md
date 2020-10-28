@@ -5,7 +5,7 @@
 ## Список библиотек:
 
 - Laravel 5 Repositories  
-https://github.com/andersao/l5-repository
+https://github.com/andersao/l5-repository  
 https://www.programmersought.com/article/8489242324/ - использование l5-repository
 
 - Laravel Permission  
