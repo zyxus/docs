@@ -29,7 +29,7 @@ relatedProducts: <a href="RelatedProducts.md">RelatedProducts</a> // Связа�
 - [ProductReviews](ProductReviews.md) - Отзывы
 - [ProductSizes](ProductSizes.md) - Размеры
 - [ProductState](ProductState.md) - Состояние продукта 
-- [RelatedProducts](RelatedProducts.md) - Связанные товары 
+- [RelatedProduct](RelatedProduct.md) - Связанные товары 
 
 > (1) Если нужно, т.к. мы говорили, что путь продукта будет по артикулу автоматом как и сейчас - product/4-125.htm - тогда slug не нужен продукту 
 > (2) Медиа целиком или только картинки
