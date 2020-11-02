@@ -21,3 +21,13 @@ https://github.com/cloudcreativity/laravel-json-api
 https://laravel-json-api.readthedocs.io/en/latest/  
 https://jsonapi.org - спецификация JSON API  
 https://howtojsonapi.com -  туториалы по JSON API для бэка и фронта
+
+- Laravel Debugbar  
+https://github.com/barryvdh/laravel-debugbar  
+http://phpdebugbar.com/docs/
+
+- Laravel IDE Helper Generator  
+https://github.com/barryvdh/laravel-ide-helper
+
+- Laravel breadcrumbs  
+https://github.com/diglactic/laravel-breadcrumbs
