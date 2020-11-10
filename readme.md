@@ -31,3 +31,7 @@ https://github.com/barryvdh/laravel-ide-helper
 
 - Laravel breadcrumbs  
 https://github.com/diglactic/laravel-breadcrumbs
+
+- Livewire  
+https://github.com/livewire/livewire  
+https://laravel-livewire.com
